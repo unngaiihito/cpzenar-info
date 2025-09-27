@@ -10,7 +10,7 @@ Please read these terms carefully before using this application.
 
 ## 2. Usage Conditions
 - This application is a paid subscription service.
-- Monthly fee of 399 JPY (tax included / USD 2.99) applies.
+- Monthly fee of 400 JPY (tax included / USD 3.00) applies.
 - No annual plan is offered.
 
 ## 3. License

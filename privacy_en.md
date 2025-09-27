@@ -9,6 +9,10 @@ Below is a description of how personal information is handled in this applicatio
 - **Internet connection is required only when sending support emails.**
 - **Internet connection is required only when managing payments/licenses through Microsoft Store API.**
 
+**Important: This app does not collect or transmit any personal information.**
+**Purchases are processed through the Microsoft Store, and we do not have access to users' payment information.**
+**Support inquiries may involve email communication, but only if initiated voluntarily by the user.**
+
 ## 2. Purpose of Use
 - Saved data is for the user's own management and use.
 - Developers and third parties do not view or collect this data.
@@ -39,7 +43,7 @@ and does not discriminate against specific countries or regions.
 - If users modify or adapt this application or documentation, the developer bears no responsibility for the results.
 
 ## 6. Pricing and Refunds
-- This application is offered on a subscription basis of **399 JPY per month (tax included / USD 2.99)**.
+- This application is offered on a subscription basis of **400 JPY per month (tax included / USD 3.00)**.
 - No annual plan is offered.
 - Refunds follow Microsoft Store policies.
 
