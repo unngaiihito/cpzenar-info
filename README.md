@@ -16,4 +16,4 @@ This repository is for official public information about the Cpzenar app.
 ---
 
 🔗 GitHub Pages で公開中:  
-https://<ユーザー名>.github.io/cpzenar-info/
+https://unngaiihito.github.io/cpzenar-info/
